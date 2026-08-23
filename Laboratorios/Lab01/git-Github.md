@@ -2,7 +2,7 @@
 
  ## ¿Qué son Git y GitHub?
 
- Git es un sistema de control de versiones que permite registrar los cambios de un proyecto, volver a versiones anteriores y trabajar con otras personas sin perder el historial. GitHub es una plataforma en línea que almacena repositorios Git y facilita la colaboración mediante ramas, *commits*, *pull requests* y revisiones de código.
+ Git es un sistema de control de versiones que permite registrar los cambios de un proyecto de manera local y volver a versiones anteriores sin perder el historial. GitHub es una plataforma en línea que almacena todos los cambios y modificaciones de los repositorios Git y facilita la colaboración mediante ramas, *commits*, *pull requests* y revisiones de código.
 
  ## Configuración inicial
 
