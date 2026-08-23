@@ -1,4 +1,4 @@
-# Grupo 3 - Introducción a Señales Biomédicas
+# Grupo 3 - Introducción a Señales Biomédicas - 2026.2
 
 **Objetivo**: Otorgar conocimientos básicos y fundamentales en el tema de adquisición, análisis y procesamiento de señales biomédicas. 
 
