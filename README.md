@@ -7,7 +7,7 @@ Somos el Grupo 6 del curso de Introducción a Señales Biómedicas del ciclo 202
 **Profesores**: Moises Stevend Meza Rodriguez, Jose Alonso Caceres del Aguila
 
 | Integrantes                                | Rol             | 
-|-------------------------------------------:|-----------------|
+|---|---|
 |Ismael Edmundo Navarro Sanchez              | **Coordinador** |
 |María del Carmen Pierangeli Benites Calderón| Investigadora   |
 |Alejandra Ivonne Gamarra Leyva              | Redactora       |
