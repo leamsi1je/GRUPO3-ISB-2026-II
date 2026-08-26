@@ -119,6 +119,8 @@
  5. Si el proyecto todavía no existe en GitHub, selecciona **Publish to GitHub**, elige si será público o privado y confirma el nombre del repositorio.
  6. Para un repositorio que ya tiene remoto, selecciona **Push** o **Sync Changes** para enviar los *commits* a GitHub.
 
+![Captura1](P2.JPG)
+
  ## Crear y cambiar de rama (Interfaz de usuario de VS Code)
 
  Selecciona el nombre de la rama en la barra de estado, normalmente aparece como `main`, y elige **Create new branch**. Escribe un nombre descriptivo, por ejemplo `agrega-login`, y confirma. VS Code cambia automáticamente a la nueva rama. Para cambiar de rama, vuelve a seleccionar el nombre actual y elige la rama deseada en la lista.
@@ -130,6 +132,8 @@
  Para combinar una rama, cambia a la rama que recibirá los cambios, normalmente `main`, abre el menú de ramas y selecciona **Merge Branch**. Escoge la rama que deseas combinar. Si existen conflictos, VS Code los mostrará en **Source Control** y en los archivos afectados.
 
  En cada conflicto se puede elegir **Accept Current Change**, **Accept Incoming Change** o **Accept Both Changes**. También es posible editar el archivo manualmente para conservar la solución correcta. Después de revisar el resultado, guarda el archivo, pulsa `+` para prepararlo y selecciona **Commit** para finalizar la combinación. Finalmente, usa **Push** o **Sync Changes** para publicar la resolución en GitHub.
+
+![Captura2](P1.JPG)
 
  ## Envío automático después de cada confirmación (configuración de un solo clic)
 
