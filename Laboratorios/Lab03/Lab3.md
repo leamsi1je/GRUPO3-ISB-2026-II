@@ -1,6 +1,6 @@
-#Informe
+Informe
 
-##Quizz
+Quizz
 
 Q1. Which are the significant frequencies for EMG acquisitions? Are they the same in all body areas such as facial
 area? 
